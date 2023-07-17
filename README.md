@@ -7,9 +7,7 @@ As an example of a quantum model, we’ll train a variational quantum classifier
 
 ![image](https://github.com/SevdanurGENC/ML-Vs-QML/assets/5441882/1e803eab-fb71-4a23-8ddf-8a04eb038b28)
 
-![image](https://github.com/SevdanurGENC/ML-Vs-QML/assets/5441882/11bb5620-c9b6-4601-bcb5-519a53f2baa8)
-
-![image](https://github.com/SevdanurGENC/ML-Vs-QML/assets/5441882/fb8ca96c-86ac-46c5-be5d-e0e41cb24540)
+![image](https://github.com/SevdanurGENC/ML-Vs-QML/assets/5441882/11bb5620-c9b6-4601-bcb5-519a53f2baa8) 
 
 ![image](https://github.com/SevdanurGENC/ML-Vs-QML/assets/5441882/4c4368d3-7708-4072-86d1-75b6fe459fb4)
 
