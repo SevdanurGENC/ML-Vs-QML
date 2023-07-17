@@ -2,6 +2,9 @@
 It will be shown how to train a quantum machine learning model to overcome a classification problem.
 
 
+As an example of a quantum model, we’ll train a variational quantum classifier (VQC). The VQC is the simplest classifier available in Qiskit Machine Learning and is a good starting point for newcomers to quantum machine learning who have a background in classical machine learning.
+
+
 ![image](https://github.com/SevdanurGENC/ML-Vs-QML/assets/5441882/1e803eab-fb71-4a23-8ddf-8a04eb038b28)
 
 ![image](https://github.com/SevdanurGENC/ML-Vs-QML/assets/5441882/11bb5620-c9b6-4601-bcb5-519a53f2baa8)
