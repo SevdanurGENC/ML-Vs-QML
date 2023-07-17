@@ -12,6 +12,11 @@ It will be shown how to train a quantum machine learning model to overcome a cla
 
 
 ## Conclusion
+This is a *markdown* document with a code block:
+
+```ts
+// example.ts
+
 print(f"Model                           | Test Score | Train Score")
 print(f"SVC, 4 features                 | {train_score_c4:10.2f} | {test_score_c4:10.2f}")
 print(f"VQC, 4 features, RealAmplitudes | {train_score_q4:10.2f} | {test_score_q4:10.2f}")
@@ -19,5 +24,7 @@ print(f"----------------------------------------------------------")
 print(f"SVC, 2 features                 | {train_score_c2:10.2f} | {test_score_c2:10.2f}")
 print(f"VQC, 2 features, RealAmplitudes | {train_score_q2_ra:10.2f} | {test_score_q2_ra:10.2f}")
 print(f"VQC, 2 features, EfficientSU2   | {train_score_q2_eff:10.2f} | {test_score_q2_eff:10.2f}")
+
+```
 
 ![image](https://github.com/SevdanurGENC/ML-Vs-QML/assets/5441882/e5297f0e-3d39-42d3-940a-3f59434c093d)
