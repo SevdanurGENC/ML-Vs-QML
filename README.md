@@ -11,8 +11,7 @@ It will be shown how to train a quantum machine learning model to overcome a cla
 ![image](https://github.com/SevdanurGENC/ML-Vs-QML/assets/5441882/4c4368d3-7708-4072-86d1-75b6fe459fb4)
 
 
-## Conclusion
-This is a *markdown* document with a code block:
+## Conclusion 
 
 ```ts 
 print(f"Model                           | Test Score | Train Score")
